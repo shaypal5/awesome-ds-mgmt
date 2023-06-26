@@ -3,25 +3,21 @@
 > A curated list of resources about managing data science teams
 
 
-## Contents
-
-- [Section](#section)
-- [Another Section](#another-section)
-
-
 ## General Takeaways
 
-Blog posts & lectures that convey the experience and attitude of some specific data sciece manager.
+Blog posts & lectures that convey the experience and attitude of some specific data science manager.
 
 - [Make it worth: how to successfully deliver ML to production, by Inbal Budowski-Tal](https://www.youtube.com/watch?v=OhA1tTqz63o)
+- [From 0 to 60 (Models) in Two Years: Building Out an Impactful Data Science Function, by Carl Anderson](https://medium.com/ww-tech-blog/from-0-to-60-models-in-two-years-building-out-an-impactful-data-science-function-9ef86abb9605)
 - [Lessons learned leading AI teams, by Shir Meir Lador](https://blogs.intuit.com/blog/2020/06/23/lessons-learned-leading-ai-teams/
 )
 - [The Secret Sauce of Data Science Managemeny, by Shir Meir Lador](https://www.youtube.com/watch?v=qO7sl8_YtJM)
+- [The Hitchhiker’s Guide to Building a Data Science Team](https://towardsdatascience.com/the-hitchhikers-guide-to-building-a-data-science-team-9b9c5630537b)
 - [Important Traits To Help You Become A Better Data-Science Manager, by Ori Cohen](https://towardsdatascience.com/important-traits-to-help-you-become-a-better-data-science-manager-dc0de3a37961)
 
 ## Team Structure & Roles
 
-- [Team Topology for Machine Learning, Misbah Uddin](https://towardsdatascience.com/team-topology-for-machine-learning-45bddba626e3]
+- [Team Topology for Machine Learning, Misbah Uddin](https://towardsdatascience.com/team-topology-for-machine-learning-45bddba626e3)
 - [Towards a Data Mesh: Data Domains and Teams Topologies, by François Nguyen](https://francois-nguyen.blog/2021/03/07/towards-a-data-mesh-part-1-data-domains-and-teams-topologies/)
 
 ### Hiring for Data Science Teams
@@ -55,7 +51,7 @@ Characterisitic flows/structures for data science projects.
 
 ## Docs & Templates
 
-- [TBA: DS Project Def Docs](https://docs.google.com/presentation/d/1XuHz9OZUyVdNtKGMjKd8DZMNWH50aqJIR2ow37c8qzg/edit?usp=sharing)
+- [DS Project Def Docs, by Shay Palachy Affek](https://docs.google.com/presentation/d/1XuHz9OZUyVdNtKGMjKd8DZMNWH50aqJIR2ow37c8qzg/edit?usp=sharing)
 
 ### DS Playbooks
 
